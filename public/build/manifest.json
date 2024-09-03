@@ -1,0 +1,22 @@
+{
+  "_browser-1e680f2b.js": {
+    "file": "assets/browser-1e680f2b.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-85fd072c.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "dynamicImports": [
+      "_browser-1e680f2b.js"
+    ],
+    "file": "assets/app-336882b9.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
